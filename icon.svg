@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="710.36871"
+   height="635.35449"
+   viewBox="0 0 14.207374 12.70709"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="terminal-svgrepo-com.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="14.207374"
+       height="12.70709"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <path
+     d="M 1.8067148e-8,9.9999899 4.292895,5.7071099 1.8067148e-8,1.4142099 1.414215,-7.0835264e-8 7.121325,5.7071099 1.414215,11.41419 Z"
+     fill="#000000"
+     id="path1"
+     style="fill:#549639;fill-opacity:1" />
+  <path
+     d="m 6.207335,12.70709 h 8.00004 v -2 h -8.00004 z"
+     fill="#000000"
+     id="path2"
+     style="fill:#bb473b;fill-opacity:1" />
+  <ellipse
+     style="fill:#8d5bad;fill-opacity:1;stroke-width:0.06;stroke-linejoin:round;stroke-dasharray:0.029, 0.087"
+     id="path3"
+     cx="10.878271"
+     cy="5.6978459"
+     rx="3.1053391"
+     ry="3.163059" />
+</svg>
