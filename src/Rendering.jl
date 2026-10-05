@@ -125,7 +125,8 @@ function _field_values(phi::AbstractMatrix, field::AbstractVector{<:Real})
     Base.require_one_based_indexing(field)
     length(field) == length(phi) ||
         throw(DimensionMismatch("field has $(length(field)) values, expected $(length(phi))"))
-    return reshape(field, size(phi))
+    # A view avoids marking a Julia 1.10 Vector as permanently shared/non-resizable.
+    return reshape(view(field, :), size(phi))
 end
 function _field_values(phi::AbstractMatrix, field::AbstractMatrix{<:Real})
     Base.require_one_based_indexing(field)
